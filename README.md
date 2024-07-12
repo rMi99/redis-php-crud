@@ -1,4 +1,4 @@
-# Redis and SSL Installation Guide for PHP
+# Redis Installation Guide for PHP
 
 This guide will help you install and configure the Redis extension and SSL for PHP on your Ubuntu server.
 
