@@ -10,9 +10,9 @@ Before you begin, ensure that your system is up-to-date:
 sudo apt-get update
 
 ```
-sudo apt-get install php-redis
-```
 
+```
+sudo apt-get install php-redis
 ```
 ```
 extension=redis.so
